@@ -1,0 +1,33 @@
+body{
+    background: rgb(240, 132, 132);
+    text-align: center;
+}
+
+
+img{
+    height: 300px;
+    width: 500px;
+    border: 7px solid;
+    border-radius: 10px;
+    border-color: rgb(68, 63, 52);
+    box-shadow: 10px 5px 5px black;
+}
+
+button{
+    border-radius: 15px;
+    background-color: pink;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+input{
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: rgb(122, 122, 216);
+    padding-left: 7px;
+}
+
+::placeholder{
+    color: black
+    ;
+}
